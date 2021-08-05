@@ -4,7 +4,7 @@ __lua__
 #include rts_test_code.p8
 #include rts_player_input.p8
 #include rts_actors.p8
-#include rts rts_a_star.p8
+#include rts_a_star.p8
 __gfx__
 00000000bbbbbbbbbbbbbbbbbbbbbbbb777000000000000000000000bbbb333bb33bbbbbb33bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb0000000000000000
 00000000bbbbbbbbbbbbbbbbbbbbbbbb770000000000000000000000bbb333333333bbb33333bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb0000000000000000
